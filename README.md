@@ -2,7 +2,7 @@
 
 An interactive dashboard that analyzes **employee attrition** across an organization. It helps HR teams understand *who* is leaving, *when* they leave, and *which roles and groups* are most affected, so they can make data-driven retention decisions.
 
-![HR Analytics Dashboard](Screenshot 2026-09-19 111737.png)
+![HR Analytics Dashboard](dashboard.png)
 
 ## Objective
 
